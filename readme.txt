@@ -1,0 +1,1 @@
+springcloud的消息整合工程的服務端
